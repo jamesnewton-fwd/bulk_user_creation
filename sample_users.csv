@@ -1,0 +1,4 @@
+email,username,password,networks,roles,isSupport,enabled
+me@example.com,me@example.com,StrongPass123!,101,ADMIN,false,true
+another@example.com,another@example.com,StrongPass123!,"201,301","OPERATOR,READ_ONLY",true,false
+third@example.com,,,101,ADMIN,,
